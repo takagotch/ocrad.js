@@ -19,4 +19,3 @@ int OCRAD.close(pointer descriptor)
 ```
 
 
-### ocrad.js
